@@ -37,7 +37,6 @@ to retain a ton of content and try to apply them all from memory.
 
 - read: [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
 - read [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-- watch: [JavaScript Prototypes and Inheritance](https://app.pluralsight.com/player?course=javascript-objects-prototypes&author=jim-cooper&name=javascript-objects-prototypes-m3&clip=0&mode=live)
 
 ### Example 
 
